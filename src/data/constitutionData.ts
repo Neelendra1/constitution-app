@@ -182,6 +182,22 @@ export const constitutionArticles = [
     content: "The State shall provide free and compulsory education to all children of the age of six to fourteen years in such manner as the State may, by law, determine. 📘 RTE Act Highlights: 25% reservation in private unaided schools for children from disadvantaged groups, Ban on physical punishment, mental harassment, and screening procedures during admission, Mandates minimum infrastructure, teacher qualifications, and student-teacher ratios.",
     category: "Fundamental Rights",
     important: false
+  },
+  {
+    id: 24,
+    title: "Article 22",
+    description: "Protection against arrest and detention in certain cases",
+    content: "Article 22 provides safeguards to individuals in case of arrest and detention, and distinguishes between: Ordinary Arrest and Preventive Detention. 🔒 Rights for Persons Arrested under Ordinary Law (Clauses 1 & 2): Every person who is arrested shall have the right to: Be informed of the reasons for the arrest. Consult and be defended by a legal practitioner of their choice. Be produced before a magistrate within 24 hours of arrest. Not be detained beyond 24 hours without the magistrate’s permission. These are available to both citizens and non-citizens. ⚠️ Preventive Detention (Clauses 3–7): Article 22 allows preventive detention, but with restrictions: A person can be detained without trial for up to 3 months. Beyond 3 months: A special Advisory Board (of High Court judges) must approve the detention.The detained person: May not be informed of all grounds for detention (if disclosure is against public interest) and Does not have the right to legal representation by default.",
+    category: "Fundamental Rights",
+    important: false
+  },
+  {
+    id: 25,
+    title: "Article 23",
+    description: "Prohibition of traffic in human beings and forced labour",
+    content: "Traffic in human beings, begar (forced labour without payment), and other similar forms of forced labour are prohibited. Any violation of this provision is a punishable offence under law. The State can impose compulsory service for public purposes, but it cannot discriminate on grounds of religion, race, caste, or class. This article protects against economic and physical exploitation, especially of vulnerable communities. Traffic in human beings includes: Slavery, Sex trafficking, Prostitution, Forced marriage.",
+    category: "Fundamental Rights",
+    important: false
   }
 ];
 
