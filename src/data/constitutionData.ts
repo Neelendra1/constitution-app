@@ -198,6 +198,206 @@ export const constitutionArticles = [
     content: "Traffic in human beings, begar (forced labour without payment), and other similar forms of forced labour are prohibited. Any violation of this provision is a punishable offence under law. The State can impose compulsory service for public purposes, but it cannot discriminate on grounds of religion, race, caste, or class. This article protects against economic and physical exploitation, especially of vulnerable communities. Traffic in human beings includes: Slavery, Sex trafficking, Prostitution, Forced marriage.",
     category: "Fundamental Rights",
     important: false
+  },
+  {
+    id: 26,
+    title: "Article 24",
+    description: "Prohibition of employment of children in factories, etc.",
+    content: "No child below the age of fourteen years shall be employed to work in any factory or mine or engaged in any other hazardous employment. Article 24 strictly prohibits child labor in: Factories, Mines, Hazardous occupations (e.g. explosives, chemicals, construction). This right aims to protect the health, safety, and dignity of children.",
+    category: "Fundamental Rights",
+    important: false
+  },
+  {
+    id: 27,
+    title: "Article 25",
+    description: "Freedom of conscience and free profession, practice and propagation of religion",
+    content: "All persons are equally entitled to: Freedom of conscience and Right to freely profess, practice, and propagate religion. Subject to: Public order, Morality, Health and Other provisions of Part III (i.e., Fundamental Rights)",
+    category: "Fundamental Rights",
+    important: false
+  },
+  {
+    id: 28,
+    title: "Article 26",
+    description: "Freedom to manage religious affairs",
+    content: "Every religious denomination or any section thereof has the right to: Establish and maintain institutions for religious and charitable purposes, Manage its own affairs in matters of religion, Own and acquire movable and immovable property and Administer such property in accordance with law. These rights are subject to: Public order, Morality and Health.",
+    category: "Fundamental Rights",
+    important: false
+  },
+  {
+    id: 29,
+    title: "Article 27",
+    description: "Freedom as to payment of taxes for promotion of any particular religion",
+    content: "No person shall be compelled to pay any taxes, the proceeds of which are specifically appropriated in payment of expenses for the promotion or maintenance of any particular religion or religious denomination. Article 27 reinforces the secular character of the Indian State by ensuring public funds are not used to support or promote any religion.",
+    category: "Fundamental Rights",
+    important: false
+  },
+  {
+    id: 30,
+    title: "Article 28",
+    description: "Freedom as to attendance at religious instruction or religious worship in certain educational institutions",
+    content: "Article 28 regulates religious instruction and worship in educational institutions, based on how they are funded: Clause (1): No religious instruction is allowed in any educational institution wholly funded by the State. Clause (2): This restriction does not apply to institutions administered by the State but established under an endowment or trust that requires religious instruction. Clause (3): No person attending any State-recognized or State-aided educational institution shall be required to attend religious instruction or worship without their consent (or their guardian’s consent if they are a minor). Applies to public institutions like government schools, colleges, and universities, ensuring the secular nature of education.",
+    category: "Fundamental Rights",
+    important: false
+  },
+  {
+    id: 31,
+    title: "Article 29",
+    description: "Protection of interests of minorities",
+    content: "Article 29 provides rights to any section of citizens with a distinct language, script, or culture: Clause (1): Any section of the citizens residing in India that has a distinct language, script, or culture has the right to conserve it.",
+    category: "Fundamental Rights",
+    important: false
+  },
+  {
+    id: 32,
+    title: "Article 30",
+    description: "Right of minorities to establish and administer educational institutions",
+    content: "Article 30 gives religious and linguistic minorities the right to: Establish and administer educational institutions of their choice and Not be discriminated against by the State when it gives aid to educational institutions. Clause (1): All minorities, whether based on religion or language, have the right to establish and administer educational institutions of their choice. Clause (1A) (added by the 44th Amendment, 1978): In case the State acquires the property of a minority-run educational institution, it must ensure that compensation does not affect the institution's rights under Article 30. Clause (2): The State cannot discriminate against a minority institution in granting aid, solely on the ground that it is administered by a minority. Applies only to minorities: Linguistic minorities (e.g., Marathi-speaking people in Tamil Nadu) and Religious minorities (e.g., Christians, Muslims, Sikhs in India).",
+    category: "Fundamental Rights",
+    important: false
+  },
+  {
+    id: 33,
+    title: "Article 31",
+    description: "Right to Property",
+    content: "Repealed by the 44th Constitutional Amendment Act, 1978. The 44th Amendment Act (1978) moved the right to property to Article 300A under Part XII, making it a legal right, not a fundamental one.",
+    category: "Important Articles",
+    important: false
+  },
+  {
+    id: 34,
+    title: "Article 32",
+    description: "Right to Constitutional Remedies",
+    content: "Article 32 gives every citizen the right to move the Supreme Court for the enforcement of Fundamental Rights guaranteed under the Constitution. Clause (1): The right to move the Supreme Court by appropriate proceedings for the enforcement of Fundamental Rights is itself a Fundamental Right. Clause (2): The Supreme Court can issue directions, orders, or writs (including habeas corpus, mandamus, prohibition, quo warranto, certiorari) for the enforcement of Fundamental Rights. Clause (3): Parliament may empower any other court (besides the Supreme Court) to exercise similar powers for Fundamental Rights enforcement. Clause (4): This right cannot be suspended except as provided by the Constitution, such as during a national emergency under Article 359. Dr. B.R. Ambedkar called Article 32 the 'heart and soul of the Constitution'. Citizens can directly approach the Supreme Court without going through lower courts.",
+    category: "Fundamental Rights",
+    important: false
+  },
+  {
+    id: 35,
+    title: "Article 33",
+    description: "Power of Parliament to modify the rights conferred by this Part (Part III) in their application to Armed Forces, etc.",
+    content: "Parliament has the power to restrict or modify the application of Fundamental Rights to: Armed Forces, Paramilitary forces, Police, Intelligence agencies, Telecommunication systems connected to national security. Article 33 recognizes that unrestricted Fundamental Rights may hinder military discipline or national security.",
+    category: "Fundamental Rights",
+    important: false
+  },
+  {
+    id: 36,
+    title: "Article 34",
+    description: "Restrictions on Fundamental Rights while martial law is in force in any area.",
+    content: "Article 34 empowers Parliament to impose restrictions on Fundamental Rights when martial law is in force in any part of the territory of India. Martial law: Refers to a situation where military authorities temporarily take over civilian functions in a region to maintain law and order (usually during war, rebellion, or insurrection). This article allows Parliament to: Indemnify (legally protect) individuals, including government officials or armed forces personnel, for actions taken in connection with martial law. Pass laws that may curtail Fundamental Rights for the sake of public order and national integrity. Unlike an emergency (Article 352), martial law is not formally defined in the Constitution but is recognized through this article.",
+    category: "Fundamental Rights",
+    important: false
+  },
+  {
+    id: 37,
+    title: "Article 35",
+    description: "Legislation to give effect to certain provisions of this Part (Part III)",
+    content: "Article 35 vests the exclusive power in Parliament to make laws for: Giving effect to certain specified Fundamental Rights.Prescribing punishments for acts declared to be offenses under Part III (Fundamental Rights).",
+    category: "Fundamental Rights",
+    important: false
+  },
+  {
+    id: 38,
+    title: "Article 36",
+    description: "Definition (Directive Principles of State Policy)",
+    content: "In this Part, unless the context otherwise requires, ‘the State’ has the same meaning as in Part III. It states that 'State' includes: Government of India, Parliament, State Governments and Legislatures, All local or other authorities within the territory of India or under the control of the Government of India",
+    category: "Directive Principles",
+    important: false
+  },
+  {
+    id: 39,
+    title: "Article 37",
+    description: "Application of the principles contained in this Part",
+    content: "The provisions in this Part (Directive Principles) shall not be enforceable by any court, but the principles are fundamental in the governance of the country, and it is the duty of the State to apply these principles in making laws. Not enforceable by courts: You cannot file a case in court to demand implementation of a Directive Principle.",
+    category: "Directive Principles",
+    important: false
+  },
+  {
+    id: 40,
+    title: "Article 38",
+    description: "State to secure a social order for the promotion of welfare of the people",
+    content: "Article 38 directs the State to: Promote the welfare of the people by securing a social order in which justice—social, economic, and political—shall inform all institutions of national life. Minimize inequalities in: Income, Status, Facilities, Opportunities — among individuals and groups in different parts of the country.",
+    category: "Directive Principles",
+    important: false
+  },
+  {
+    id: 41,
+    title: "Article 39",
+    description: "Certain principles of policy to be followed by the State",
+    content: "Article 39 lays down several key guidelines the State must follow in policymaking to ensure social and economic justice. It is the backbone of welfare legislation in India. Forms the basis of laws on: Labour rights, Women’s rights, Child protection, Land reforms, Minimum wage, Corporate regulation",
+    category: "Directive Principles",
+    important: false
+  },
+  {
+    id: 42,
+    title: "Article 39A",
+    description: "Equal justice and free legal aid",
+    content: "The State shall ensure that: The legal system promotes justice on a basis of equal opportunity, and Free legal aid is provided by suitable legislation or schemes to ensure that no citizen is denied justice due to economic or other disabilities. Article 39A is the constitutional foundation for: Legal Services Authorities Act, 1987, National Legal Services Authority (NALSA), Free legal aid clinics and public defenders.",
+    category: "Directive Principles",
+    important: false
+  },
+  {
+    id: 43,
+    title: "Article 40",
+    description: "Organisation of village panchayats",
+    content: "The State shall take steps to organize village panchayats and endow them with such powers and authority as may be necessary to enable them to function as units of self-government. Encourage local self-governance in rural areas through Panchayati Raj Institutions (PRIs). Though Article 40 was originally non-binding, it became a reality with the: 73rd Constitutional Amendment Act, 1992, which gave constitutional status to Panchayats by adding: Part IX: “The Panchayats” and Schedule XI: Lists 29 subjects for Panchayats.",
+    category: "Directive Principles",
+    important: false
+  },
+  {
+    id: 44,
+    title: "Article 41",
+    description: "Right to work, to education, and to public assistance in certain cases",
+    content: "The State shall, within its economic capacity and development, make effective provision for: Right to work, Right to education, Right to public assistance in cases of: Unemployment, Old age, Sickness, Disablement, Other undeserved want. Basis for welfare schemes such as: MGNREGA (Mahatma Gandhi National Rural Employment Guarantee Act), Old Age Pensions, Disability Benefits, Free and Compulsory Education (Article 21A)",
+    category: "Directive Principles",
+    important: false
+  },
+  {
+    id: 45,
+    title: "Article 42",
+    description: "Provision for just and humane conditions of work and maternity relief",
+    content: "The State shall make provision for: Just and humane conditions of work, and Maternity relief for women workers. Courts have interpreted Article 42 alongside Article 21 (Right to Life) to uphold: Worker safety, Paid maternity leave and Non-discriminatory treatment of pregnant employees",
+    category: "Directive Principles",
+    important: false
+  },
+  {
+    id: 46,
+    title: "Article 43",
+    description: "Living wage, etc., for workers",
+    content: "The State shall endeavour to: Secure, by suitable legislation or economic organization, for all workers: A living wage, Decent conditions of work, Full enjoyment of leisure and social and cultural opportunities. The State shall also promote cottage industries on an individual or cooperative basis in rural areas. ⚖️ Related Laws and Policies: Minimum Wages Act, 1948, Code on Wages, 2019 and Promotion of cooperative societies and rural skill development programs",
+    category: "Directive Principles",
+    important: false
+  },
+  {
+    id: 47,
+    title: "Article 43A",
+    description: "Participation of workers in management of industries",
+    content: "The State shall take steps, by suitable laws or other means, to secure the participation of workers in the management of undertakings, establishments or other organizations engaged in any industry. Encourage industrial democracy, leading to: Better employer-employee relationships, Increased productivity, Reduced labor unrest.",
+    category: "Directive Principles",
+    important: false
+  },
+  {
+    id: 48,
+    title: "Article 44",
+    description: "Uniform Civil Code for the citizens",
+    content: "The State shall endeavour to secure for the citizens a Uniform Civil Code (UCC) throughout the territory of India. To ensure equality before law in matters of personal laws (like marriage, divorce, inheritance, and adoption), irrespective of religion. Promote national integration, secularism, and gender justice. Remove discrepancies caused by religion-based personal laws. Goa is the only state that currently follows a form of UCC through its Portuguese Civil Code.",
+    category: "Directive Principles",
+    important: false
+  },
+  {
+    id: 49,
+    title: "Article 45",
+    description: "Provision for early childhood care and education to children below the age of six years",
+    content: "The State shall endeavour to provide: Early childhood care and education for all children below the age of six years. Before 86th Amendment (1950–2002) - Directed the State to provide free and compulsory education to all children up to age 14 within 10 years of the Constitution’s commencement. 	After 86th Amendment (2002–present) - That part moved to Article 21A (a Fundamental Right). Article 45 was updated to focus on children under 6 years. Forms the basis of schemes like: Integrated Child Development Services (ICDS), Anganwadi centres, National Early Childhood Care and Education (ECCE) Policy",
+    category: "Directive Principles",
+    important: false
+  },
+  {
+    id: 50,
+    title: "Article 46",
+    description: "Promotion of educational and economic interests of Scheduled Castes, Scheduled Tribes, and other weaker sections",
+    content: "The State shall promote, with special care: The educational and economic interests of: Scheduled Castes (SCs), Scheduled Tribes (STs), Other weaker sections of society. And protect them from social injustice and all forms of exploitation. Inspired numerous policies and laws, such as: Reservations in education and public employment, Scholarships and fellowships for SC/ST students, Economic development programs (like Stand Up India, SC/ST entrepreneurship funds)",
+    category: "Directive Principles",
+    important: false
   }
 ];
 
