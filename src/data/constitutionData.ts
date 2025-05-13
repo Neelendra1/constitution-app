@@ -398,6 +398,118 @@ export const constitutionArticles = [
     content: "The State shall promote, with special care: The educational and economic interests of: Scheduled Castes (SCs), Scheduled Tribes (STs), Other weaker sections of society. And protect them from social injustice and all forms of exploitation. Inspired numerous policies and laws, such as: Reservations in education and public employment, Scholarships and fellowships for SC/ST students, Economic development programs (like Stand Up India, SC/ST entrepreneurship funds)",
     category: "Directive Principles",
     important: false
+  },
+  {
+    id: 51,
+    title: "Article 47",
+    description: "Duty of the State to raise the level of nutrition and the standard of living and to improve public health",
+    content: "The State shall regard the raising of the level of nutrition, the standard of living, and the improvement of public health as among its primary duties, and in particular, shall: Endeavour to bring about prohibition of the consumption of intoxicating drinks and drugs that are injurious to health, except for medicinal purposes. Foundation for various national missions and policies: National Health Mission (NHM), Mid-Day Meal Scheme, POSHAN Abhiyaan (Nutrition Mission), Prohibition laws in some states (e.g., Gujarat, Bihar)",
+    category: "Directive Principles",
+    important: false
+  },
+  {
+    id: 52,
+    title: "Article 48",
+    description: "Organisation of agriculture and animal husbandry",
+    content: "The State shall endeavour to: Organize agriculture and animal husbandry on modern and scientific lines, and Take steps to preserve and improve breeds, and prohibit the slaughter of cows and calves and other milch and draught cattle. Forms the constitutional basis for: Cow protection laws in several states, Bans on cow slaughter, Animal husbandry development programs, National Gokul Mission (for indigenous cattle breed improvement).",
+    category: "Directive Principles",
+    important: false
+  },
+  {
+    id: 53,
+    title: "Article 48A",
+    description: "Protection and improvement of environment and safeguarding of forests and wildlife",
+    content: "The State shall endeavour to: Protect and improve the environment and to safeguard the forests and wildlife of the country.",
+    category: "Directive Principles",
+    important: false
+  },
+  {
+    id: 54,
+    title: "Article 49",
+    description: "Protection of monuments and places and objects of national importance",
+    content: "The State shall protect every monument or place or object of artistic or historic interest, which has been declared by or under law made by Parliament to be of national importance, from: Spoliation, disfigurement, destruction, removal, disposal or export, as the case may be. Supported by laws such as: Ancient Monuments and Archaeological Sites and Remains Act, 1958, Antiquities and Art Treasures Act, 1972, Policies under the Archaeological Survey of India (ASI). Prohibits unauthorized construction near protected monuments (100–200 meter buffer zones).",
+    category: "Directive Principles",
+    important: false
+  },
+  {
+    id: 55,
+    title: "Article 50",
+    description: "Separation of judiciary from the executive",
+    content: "The State shall take steps to: Separate the judiciary from the executive in the public services of the State.",
+    category: "Directive Principles",
+    important: false
+  },
+  {
+    id: 56,
+    title: "Article 51",
+    description: "Promotion of international peace and security",
+    content: "The State shall endeavour to: Promote international peace and security, Maintain just and honourable relations between nations, Foster respect for international law and treaty obligations, Encourage settlement of international disputes by arbitration",
+    category: "Directive Principles",
+    important: false
+  },
+  {
+    id: 57,
+    title: "Article 52",
+    description: "The President of India",
+    content: "There shall be a President of India. Establishes the position of the President as the constitutional head of the Indian Republic.The President is the nominal executive, while the real power lies with the Council of Ministers headed by the Prime Minister (as per Article 74).",
+    category: "Important Articles",
+    important: false
+  },
+  {
+    id: 58,
+    title: "Article 53",
+    description: "Executive power of the Union",
+    content: "The executive power of the Union shall be vested in the President and shall be: Exercised either directly by the President, or Through officers subordinate to him in accordance with the Constitution. The President shall exercise this power in accordance with law and constitutional provisions. The power of the President shall not include the exercise of military power in derogation of law. 🛡 Military Power Clause: The third clause ensures that the President cannot use military power arbitrarily—it must conform to law (e.g., war powers are regulated through Parliament).",
+    category: "Important Articles",
+    important: false
+  },
+  {
+    id: 59,
+    title: "Article 54",
+    description: "Election of the President",
+    content: "The President of India shall be elected by - The elected members of both Houses of Parliament (Lok Sabha and Rajya Sabha), and The elected members of the Legislative Assemblies of the States (including Union Territories having legislatures like Delhi and Puducherry). The election is held by means of proportional representation using the single transferable vote system. Nominated members of Parliament and State Assemblies do not participate in the election. The value of votes is calculated to give balanced weightage to both State and Union representatives.",
+    category: "Important Articles",
+    important: false
+  },
+  {
+    id: 60,
+    title: "Article 55",
+    description: "Manner of election of President",
+    content: "Article 55 supplements Article 54 by explaining how the Presidential election should be conducted to ensure uniformity and fair representation. The population data used for these calculations is from the 1971 Census (frozen until 2026).",
+    category: "Important Articles",
+    important: false
+  },
+  {
+    id: 61,
+    title: "Article 56",
+    description: "Term of office of President",
+    content: "The President shall hold office for a term of five years from the date on which they enter office. The President can: Resign by writing to the Vice-President and Be removed by impeachment for violation of the Constitution (as per Article 61). Even after the end of their term, the President: Continues to hold office until a successor enters the position and This ensures no vacancy in the highest constitutional office. Allows for reelection — there is no limit on the number of terms a person can serve as President.",
+    category: "Important Articles",
+    important: false
+  },
+  {
+    id: 62,
+    title: "Article 57",
+    description: "Eligibility for re-election",
+    content: "A person who holds (or has held) office as President of India shall be eligible for re-election to that office. A former President can contest again for the office as long as they meet the eligibility conditions under Article 58. Dr. Rajendra Prasad is the only person to have served two full terms as President (1950–1962).",
+    category: "Important Articles",
+    important: false
+  },
+  {
+    id: 63,
+    title: "Article 58",
+    description: "Qualifications for election as President",
+    content: "To be eligible for election as the President of India, a person must: Be a citizen of India, Be at least 35 years of age, Be qualified for election as a member of the Lok Sabha. And must not hold any office of profit under: The Government of India, Any State Government, or Any local or other authority under the control of said governments. ⚠️ However, the President, Vice-President, Governor, and Ministers of Union or State are not considered to be holding an “office of profit” for this purpose.",
+    category: "Important Articles",
+    important: false
+  },
+  {
+    id: 64,
+    title: "Article 59",
+    description: "Conditions of the President’s office",
+    content: "This Article lays down the conditions under which the President holds office: The President shall not hold any other office of profit during their term. The President is entitled, without payment of rent, to the use of an official residence. The President shall be entitled to: Emoluments, allowances, and privileges as determined by Parliament. These cannot be reduced during their term. If a person who is already receiving a pension or salary from the Government (due to previous services) becomes President, Parliament may decide to regulate or suspend such payments during their Presidential term.",
+    category: "Important Articles",
+    important: false
   }
 ];
 
